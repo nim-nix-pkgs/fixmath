@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689729,
-        "narHash": "sha256-IPRXQ5e+OVC6WggOZiIr05hCCtrTQkuyCaoHTmEM8l0=",
+        "lastModified": 1653696331,
+        "narHash": "sha256-xmJ8Vw/D9WyFISPpgCivqFy5I0UMcWvkJN05VK5VYkU=",
         "owner": "nim-nix-pkgs",
         "repo": "fixmath",
-        "rev": "8cd37ab81a5bb5a45f3ca296a62512257121039e",
+        "rev": "a11bf1e00984063d4222bfcbeb3fe894b33687d5",
         "type": "github"
       },
       "original": {
